@@ -1,0 +1,63 @@
+Figma2Unity Proprietary License
+Copyright (c) 2026 GCChen. All rights reserved.
+
+================================================================================
+SOFTWARE (Unity package / source under Assets/Figma2Unity, excluding publicly
+published documentation as noted below)
+================================================================================
+
+This software and associated non-public materials (the "Software") are proprietary.
+They are licensed, not sold, when obtained through the Unity Asset Store or another
+authorized commercial channel operated by the copyright holder.
+
+1. Grant of License
+   Subject to payment (if required) and the Unity Asset Store EULA (when purchased
+   there), you are granted a non-exclusive, non-transferable license to:
+   - install and use the Software in your Unity projects;
+   - modify the Software for use in your own projects;
+   - include compiled / runtime portions of the Software in games and applications
+     you ship to end users.
+
+2. Restrictions
+   You may NOT, without prior written permission:
+   - redistribute, resell, sublicense, or share the Software (or substantial
+     portions of its source) as a competing asset, package, or tool;
+   - publish the Software source on a public repository or website;
+   - remove or alter copyright notices in the Software.
+
+3. Unity Asset Store
+   If you purchased via the Unity Asset Store, the Unity Asset Store EULA also
+   applies. If there is a conflict regarding store distribution terms, the Asset
+   Store EULA controls for that purchase; this file states the author's intent
+   for proprietary ownership and redistribution limits.
+
+4. Figma / third parties
+   You must supply your own Figma credentials and comply with Figma's terms.
+   Figma, Unity, and other third-party trademarks belong to their owners.
+   See "Third Party Notices.md".
+
+5. Warranty disclaimer
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY ARISING FROM USE OF THE SOFTWARE.
+
+6. Contact
+   Project / docs: https://github.com/GCChen/Figma2Unity
+   Package id: com.fllyt.figma2unity
+
+================================================================================
+PUBLIC MATERIALS (GitHub overview only)
+================================================================================
+
+A public repository may include this LICENSE file and a short root README
+describing the product. That does NOT include:
+
+- Editor / Runtime source under Assets/Figma2Unity
+- Detailed user guides under Assets/Figma2Unity/Documentation (those ship
+  only with a legally obtained copy of the Software)
+- Samples, Demo Prefabs, or other package contents
+
+Publishing those materials on a public repository is not granted by this license.
+Markdown documentation inside a purchased package may be read by the licensee
+for using that copy. That does NOT grant any license to redistribute the
+Software source.
