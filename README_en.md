@@ -5,6 +5,7 @@
 Import top-level Figma frames into Unity **uGUI Prefabs**: hierarchy, fills, text, rendered vectors, optional binding scripts.
 
 - **Author:** GCChen · **Publisher label:** Fllyt Studio  
+- **Store:** [Asset Store](https://assetstore.unity.com/packages/slug/405028) · [short link](https://u3d.as/49C6)  
 - **Unity**: 2021.3+  
 - **Dependency**: `com.unity.ugui` (Unity UI)  
 - **License**: see [`LICENSE`](LICENSE)

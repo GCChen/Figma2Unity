@@ -5,6 +5,7 @@
 把 Figma 顶层 Frame（页面层）导入为 Unity **uGUI Prefab**：保留层级、填充、文字、向量出图，并可选生成绑定脚本。
 
 - **作者：** GCChen · **发布名：** Fllyt Studio  
+- **商店：** [Asset Store](https://assetstore.unity.com/packages/slug/405028) · [短链](https://u3d.as/49C6)  
 - **Unity**：2021.3+  
 - **依赖**：`com.unity.ugui`（Unity UI）  
 - **许可**：见包内 [`LICENSE`](LICENSE)
